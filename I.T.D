@@ -14,7 +14,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
 #define AIO_USERNAME    "MartinMEP"
-#define AIO_KEY         "aio_aTTJ76kELZLFaJglRXoUk4brl7EQ"  // Obtained from account info on io.adafruit.com
+#define AIO_KEY         "aio_GwrO20ftZ12HZWu3SfvdBGRV8gmP"  // Obtained from account info on io.adafruit.com
 #define SERIAL_NUMBER   5555
 
 //************************************GLOBAL VARIABLES****************************************************
